@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sukhranjan Jana</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right"  width="400" alt="gifimg" src="https://github.com/rudrabarad/Gifs"></img>
-<img align="left" width="400" alt="gifimg" src="[https://github.com/rudrabarad/Gifs](https://github.com/heyayushhere/heyayushhere)"></img>
+<img align="right" width="400" alt="gifimg" src="https://github.com/rudrabarad/Gifs/blob/main/some-gif.gif?raw=true"></img>
+<img align="left" width="400" alt="gifimg" src="https://github.com/heyayushhere/heyayushhere/blob/main/another-gif.gif?raw=true"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukh767&label=Profile%20views&color=0e75b6&style=flat" alt="sukh767" /> </p>
 
 - 🌱 I’m currently learning **NEXT.JS,TS**
