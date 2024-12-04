@@ -1,10 +1,27 @@
+
 <h1 align="center">Hi 👋, I'm Sukhranjan Jana</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img align="right" alt="gifimg" src="https://github.com/rudrabarad/Gifs"></img>
+<img align="left" alt="gifimg" src="https://github.com/rudrabarad/Gifs"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukh767&label=Profile%20views&color=0e75b6&style=flat" alt="sukh767" /> </p>
+
+- 🌱 I’m currently learning **NEXT.JS,TS**
+
+- 👨‍💻 All of my projects are available at [https://morpheuscode.netlify.app/](https://morpheuscode.netlify.app/)
+
+- 📫 How to reach me **sukharanjanjana767@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WxVBA7R8Mytawa5LbvR9kJokL7ooxDIy/view?usp=sharing](https://drive.google.com/file/d/1WxVBA7R8Mytawa5LbvR9kJokL7ooxDIy/view?usp=sharing)
+
+- ⚡ Fun fact **I am funny**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@sukharanjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sukharanjan" height="30" width="40" /></a>
 <a href="https://twitter.com/@sukh_jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sukh_jana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sukharanjan-jana-402b42255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sukharanjan-jana-402b42255" height="30" width="40" /></a>
 <a href="https://instagram.com/sukh_jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukh_jana" height="30" width="40" /></a>
