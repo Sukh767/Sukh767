@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in Java, JavaScript, and modern web technologies. I love building innovative solutions and exploring the realms of AI and machine learning. When I'm not coding, you might find me cracking jokes or exploring new tech trends!
+I'm a passionate Java full-stack developer with expertise in Spring Boot, React, and modern web technologies. I love building innovative solutions and exploring the realms of AI and machine learning. When I'm not coding, you might find me cracking jokes or exploring new tech trends!
 
 ## 🔧 Technologies & Tools
 
@@ -34,24 +34,28 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, and mo
 ### Frontend Development
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
 ### Backend Development
 <div>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
 </div>
 
 ### Databases
 <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
 </div>
 
 ### Tools & Platforms
@@ -59,6 +63,7 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, and mo
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -67,18 +72,18 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, and mo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sukh767&show_icons=true&theme=radical&border_color=61dafb&bg_color=0D1117&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sukh767&theme=radical&border_color=61dafb&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sukh767&show_icons=true&theme=default&border_color=3498db&bg_color=ffffff&title_color=2c3e50&text_color=34495e&icon_color=3498db" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sukh767&theme=default&border_color=3498db&background=ffffff&ring=3498db&fire=3498db&currStreakLabel=3498db" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukh767&layout=compact&theme=radical&border_color=61dafb&bg_color=0D1117&title_color=61dafb&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukh767&layout=compact&theme=default&border_color=3498db&bg_color=ffffff&title_color=2c3e50&text_color=34495e" />
 </div>
 
 ## 🌟 Current Focus
 
-- 🔭 **Working on:** Next.js and TypeScript projects, Full-stack web applications, AI/ML projects
-- 🌱 **Learning:** Spring Boot, Advanced Next.js concepts, TypeScript best practices, Machine Learning algorithms
+- 🔭 **Working on:** Java full-stack applications with Spring Boot and React
+- 🌱 **Learning:** Advanced Spring Framework, Microservices architecture, Cloud technologies
 - 👨‍💻 **Projects:** [morpheuscode.netlify.app](https://morpheuscode.netlify.app/)
 
 ## 📫 Get in Touch
@@ -89,13 +94,13 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, and mo
 
 ## 💬 Let's Talk About
 
-- Web development (MERN stack)
-- JavaScript/TypeScript
-- Data Science and ML basics
 - Java Full-Stack Development
-- React and TypeScript
-- MySQL and backend integration
+- Spring Boot and Microservices
+- React with Redux
+- RESTful APIs and backend integration
+- Database design with MySQL/PostgreSQL
 - CI/CD with Jenkins
+- JavaScript/TypeScript best practices
 
 ## ⚡ Fun Fact
 
@@ -113,11 +118,14 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, and mo
   <a href="https://instagram.com/sukh_jana" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://github.com/sukh767" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukh767&theme=react-dark&bg_color=0D1117&color=61dafb&line=61dafb&point=FFFFFF&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukh767&theme=github&bg_color=ffffff&color=2c3e50&line=3498db&point=34495e&hide_border=true)
 
 </div>
 
@@ -125,6 +133,6 @@ I'm a passionate full-stack developer with expertise in Java, JavaScript, and mo
 
 <div align="center">
   
-  Made with ❤️ and JavaScript
+  Made with ❤️ using Java and JavaScript
 
 </div>
